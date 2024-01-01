@@ -1,0 +1,13 @@
+{
+    "flashCards": [
+      {
+        "id": 1,
+        "front": "What is React?",
+        "back": "A JavaScript library for building user interfaces.",
+        "lastModified": "2024-01-01T12:00:00Z",
+        "status": "Want to Learn"
+      },
+      // Add more flash card objects as needed
+    ]
+  }
+  
